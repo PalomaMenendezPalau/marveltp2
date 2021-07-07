@@ -1,3 +1,10 @@
+#MARVEL COMICS APP
+
+applicacion de comics de marvel donde saque la info utilizando la API de marvel https://developer.marvel.com/docs#!/public/getComicStoryCollection_get_11
+
+vercel link= https://marveltp2.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
