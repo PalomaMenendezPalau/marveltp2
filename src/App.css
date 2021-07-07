@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+body,
+html {
+  background-image: url(comicsbackground.png);
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+.navbar {
+  background-image: url(marvel-logo.png);
+  height: 10px;
+  background-position: center;
+}
+
+.card {
+  background-color: black;
+  height: 100%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.card-img-top {
+  height: 400px;
+  width: 300px;
+  background-color: black;
+  color: black;
+}
+.card-title {
+  font-family: "Otomanopee One", sans-serif;
+  color: white;
+}
